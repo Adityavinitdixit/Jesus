@@ -1,0 +1,16 @@
+[
+  {
+    "chainId": 101,
+    "address": "Arwwz6sJJyUES9dfbz1rgahkM5uP3RStfj3WEHUMU5qQ",
+    "symbol": "JES",
+    "name": "JES",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/Adityavinitdixit/JESUS-logo-jpg/main/Jesus.jpg",
+    "tags": ["memecoin", "fun", "community"],
+    "extensions": {
+      "website": "",
+      "description": "Moving towards a free world where every person owns one JES coin. Until then, the struggle is on."
+    }
+  }
+]
+“Add JES memecoin token”
